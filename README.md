@@ -50,3 +50,6 @@
 
 ### test_dataset_eda.ipynb
 * csv 값 visualize
+
+### Report
+* https://www.notion.so/Wrap-Up-e6630d63d62e4fc3847bedb723dd2e06
