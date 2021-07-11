@@ -8,7 +8,7 @@
 * CustomAugmentation : 데이터 증강
 * age_transform : 나이회귀 모델 때 사용한 데이터셋
 * GrayAugmentation : gray scale 데이터셋 
-* MaskBaseDataset : 데이터 로드 
+* MaskBaseDataset : 데이터 로드 (임의로 나눔)
 * MaskSplitByProfileDataset : 한 사람이 train, valid에 따로 들어가지 않는 데이터셋 
 * MaskDataset : 마스크 데이터셋 
 * GenderDataset: 성별 데이터셋
